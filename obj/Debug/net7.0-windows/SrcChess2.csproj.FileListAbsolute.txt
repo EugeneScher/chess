@@ -1,0 +1,379 @@
+C:\Users\user\Desktop\Chess\bin\Debug\net7.0-windows\SrcChess2.exe
+C:\Users\user\Desktop\Chess\bin\Debug\net7.0-windows\SrcChess2.dll.config
+C:\Users\user\Desktop\Chess\bin\Debug\net7.0-windows\SrcChess2.deps.json
+C:\Users\user\Desktop\Chess\bin\Debug\net7.0-windows\SrcChess2.runtimeconfig.json
+C:\Users\user\Desktop\Chess\bin\Debug\net7.0-windows\SrcChess2.dll
+C:\Users\user\Desktop\Chess\bin\Debug\net7.0-windows\SrcChess2.pdb
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\ChessBoardControl.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\CircularProgressBar.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmAbout.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmCreatePgnGame.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmGameParameter.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmPgnFilter.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmPgnGamePicker.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmQueryPawnPromotionType.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmSearchMode.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmTestBoardEval.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\LostPiecesControl.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Adventurer\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpfonso-X\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha-2\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Alpha\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Arial Unicode MS\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Berlin\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Cases\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Chess-7\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Condal\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Harlequin\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Kingdom\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Leipzig\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Line\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Lucena\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Magnetic\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Maya\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Mediaeval\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Merida\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Millennia\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Motif\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\MS Mincho\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Plain\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Segoe UI Symbol\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Smart\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Traveller Standard\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\Black Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\Black King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\Black Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\Black Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\Black Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\Black Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\White Bishop.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\White King.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\White Knight.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\White Pawn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\White Queen.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\PieceSets\Usual\White Rook.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\ChessBoardControl.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\ChessToolBar.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\CircularProgressBar.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\CustomColorPicker.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\CustomColorSelector.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FicsInterface\FrmConnectToFics.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FicsInterface\FrmFindBlitzGame.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmAbout.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmBoardSetting.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmCreateBookFromPgn.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmCreatePgnGame.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmGameParameter.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmLoadPgnGames.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmLoadPuzzle.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmPgnFilter.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmPgnGamePicker.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmQueryPawnPromotionType.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmSearchMode.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmTestBoardEval.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\LostPiecesControl.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\MoveViewer.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2_MarkupCompile.cache
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2_MarkupCompile.lref
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\ChessToolBar.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\CustomColorPicker.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\CustomColorSelector.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FicsInterface\FrmConnectToFics.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FicsInterface\FrmFindBlitzGame.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmBoardSetting.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmCreateBookFromPgn.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmLoadPgnGames.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\FrmLoadPuzzle.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\MoveViewer.baml
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.g.resources
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.Properties.Resources.resources
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.AssemblyInfo.cs
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.dll
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\refint\SrcChess2.dll
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.pdb
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\SrcChess2.genruntimeconfig.cache
+C:\Users\user\Desktop\Chess\obj\Debug\net7.0-windows\ref\SrcChess2.dll
